@@ -11,8 +11,12 @@
             "id": "4670b209522d128b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MTH254/MTH254 Topics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -25,8 +29,12 @@
             "id": "91df658b875f6433",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS290/CS290 Topics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MTH254/MTH254 Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MTH254/MTH254 Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MTH254/MTH254 Topics.md"
+              }
             }
           }
         ]
@@ -154,6 +166,10 @@
   },
   "active": "4670b209522d128b",
   "lastOpenFiles": [
+    "CS290/CS290 Topics.md",
+    "CS372/CS372 Topics.md",
+    "CS374/CS374 Topics.md",
+    "MTH254/MTH254 Topics.md",
     "Welcome.md",
     "create a link.md",
     "MTH254",
